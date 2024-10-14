@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    border: 15px solid green;
+    border-style: solid;
+    border-color: #8ACE00;
+    padding:15px;
+    margin:20px;
+}
+
+p{
+    color:#8ACE00;
+    color:cornflowerblue;
+    color:rgb(152, 130, 42);
+}
