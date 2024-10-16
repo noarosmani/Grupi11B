@@ -1,0 +1,39 @@
+/*ul{
+    list-style-type: none;
+    padding:0;
+    border: 10px solid aqua;
+}
+
+ul li{
+    padding: 8px  16px;
+    border-bottom: 5px solid aquamarine;
+}*/
+
+ol{
+    list-style-type: lower-alpha;
+    background-color: pink;
+    padding: 20px;
+}
+
+ol li{
+    background: rgb(123, 73, 81);
+    padding: 10px;
+    margin-left: 20px;
+}
+
+ul{
+    border-left: 10px solid green;
+    background-color: antiquewhite;
+    list-style-type: none;
+    padding:15px 25px;
+    font-size: 20px;
+}
+
+td,th{
+    border: 1px solid #eee;
+    padding:15px
+}
+
+table{
+    border-collapse: collapse;
+}
