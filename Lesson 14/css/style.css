@@ -1,0 +1,55 @@
+div#static{
+    position: static;
+    padding:25px;
+    height: 250px;
+    width: 250px;
+    border: 3px solid red;
+}
+
+div#relative{
+    position: relative;
+    border: 3px solid aqua;
+    width: 250px;
+    height: 250px;
+    top: 250px;
+    left: 250px;
+    padding: 20px;
+}
+
+div#fixed{
+    position: fixed;
+    border: 3px solid blanchedalmond;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    right: 200px;
+    top: 20px;
+}
+
+div#parent{
+    position: relative;
+    border: 3px solid lawngreen;
+    width: 250px;
+    height: 250px;
+    right: 20px;
+    top: 100px;
+}
+
+div#absolute{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    top: 80px;
+    right: 70px;
+    color: whitesmoke;
+}
+
+div#sticky{
+    position: sticky;
+    top: 0px;
+    background-color: #00014e;
+    color: white;
+    padding: 20px;
+}
+
